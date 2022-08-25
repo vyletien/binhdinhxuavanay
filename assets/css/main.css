@@ -4655,3 +4655,6 @@ hr::before,
 #main form input.search-page-input {
   display:none;
 }
+#main form{
+  padding: 0px !important;
+}
