@@ -4646,3 +4646,8 @@ hr::before,
     visibility: visible;
   }
 }
+
+.search input {
+  color: rgb(0, 0, 0) !important;
+  padding-left: 10px;
+}
