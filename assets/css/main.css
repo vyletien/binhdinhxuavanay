@@ -3080,7 +3080,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
     padding-bottom: 3rem;
   }
   #header .logo {
-    font-size: 1.75rem;
+    font-size: 2rem;
     border-width: 3px !important;
   }
 }
