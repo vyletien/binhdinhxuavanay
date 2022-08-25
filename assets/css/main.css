@@ -4651,3 +4651,7 @@ hr::before,
   color: rgb(0, 0, 0) !important;
   padding-left: 10px;
 }
+
+#main form input.search-page-input {
+  display:none;
+}
