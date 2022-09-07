@@ -3,12 +3,32 @@
     <title>Bình Định Xưa &amp; Nay</title>
     <link href="https://binhdinhxuavanay.com/feed.xml" rel="self" />
     <link href="https://binhdinhxuavanay.com" />
-    <updated>2022-08-25T19:14:22+07:00</updated>
+    <updated>2022-09-07T14:46:16+07:00</updated>
     <author>
         <name>Mưa mùa hè</name>
     </author>
     <id>https://binhdinhxuavanay.com</id>
 
+    <entry>
+        <title>ABC</title>
+        <author>
+            <name>Mưa mùa hè</name>
+        </author>
+        <link href="https://binhdinhxuavanay.com/abc.html"/>
+        <id>https://binhdinhxuavanay.com/abc.html</id>
+
+        <updated>2022-09-07T14:34:45+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Nắng mùa xuân
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Nắng mùa xuân</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ádas</title>
         <author>
@@ -17,15 +37,15 @@
         <link href="https://binhdinhxuavanay.com/adas.html"/>
         <id>https://binhdinhxuavanay.com/adas.html</id>
 
-        <updated>2022-08-25T14:44:40+07:00</updated>
+        <updated>2022-09-05T14:50:02+07:00</updated>
             <summary>
                 <![CDATA[
-                    đâsd
+                    😀
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>đâsd</p>
+                <p>😀<figure class="post__image"><img loading="lazy"  src="https://binhdinhxuavanay.com/media/posts/5/51302718982_9ca915986c_o.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://binhdinhxuavanay.com/media/posts/5/responsive/51302718982_9ca915986c_o-xs.jpg 300w ,https://binhdinhxuavanay.com/media/posts/5/responsive/51302718982_9ca915986c_o-sm.jpg 480w ,https://binhdinhxuavanay.com/media/posts/5/responsive/51302718982_9ca915986c_o-md.jpg 768w ,https://binhdinhxuavanay.com/media/posts/5/responsive/51302718982_9ca915986c_o-lg.jpg 1024w ,https://binhdinhxuavanay.com/media/posts/5/responsive/51302718982_9ca915986c_o-xl.jpg 1360w ,https://binhdinhxuavanay.com/media/posts/5/responsive/51302718982_9ca915986c_o-2xl.jpg 1600w"  alt="" width="1072" height="1600"></figure>
             ]]>
         </content>
     </entry>
@@ -37,7 +57,7 @@
         <link href="https://binhdinhxuavanay.com/hom-nay-boc-tham-vong-bang-champions-league.html"/>
         <id>https://binhdinhxuavanay.com/hom-nay-boc-tham-vong-bang-champions-league.html</id>
 
-        <updated>2022-08-25T16:08:58+07:00</updated>
+        <updated>2022-09-07T14:46:16+07:00</updated>
             <summary>
                 <![CDATA[
                     Sáu đội bóng vượt qua loạt play-off để nhận những tấm vé cuối cùng dự vòng bảng gồm: Benfica (Bồ Đào Nha), Viktoria&hellip;
@@ -79,7 +99,7 @@
         <link href="https://binhdinhxuavanay.com/dai-chi-huy-kiem-soat-khong-luu-cua-san-bay-quy-nhon.html"/>
         <id>https://binhdinhxuavanay.com/dai-chi-huy-kiem-soat-khong-luu-cua-san-bay-quy-nhon.html</id>
 
-        <updated>2022-08-25T19:14:22+07:00</updated>
+        <updated>2022-09-05T14:50:58+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://binhdinhxuavanay.com/media/posts/2/51252791169_14a99bebd5_o.jpg" alt="" />
@@ -144,7 +164,7 @@
         <link href="https://binhdinhxuavanay.com/livestream-phien-toa-co-the-bi-phat-30-trieu-dong.html"/>
         <id>https://binhdinhxuavanay.com/livestream-phien-toa-co-the-bi-phat-30-trieu-dong.html</id>
 
-        <updated>2022-08-25T19:00:05+07:00</updated>
+        <updated>2022-09-05T20:09:31+07:00</updated>
             <summary>
                 <![CDATA[
                     Đang cập nhật
